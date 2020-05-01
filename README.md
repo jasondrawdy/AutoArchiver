@@ -80,7 +80,7 @@ https://sourceforge.net/projects/objectlistview <br>
 
 # License
 
-Copyright © ∞ Jason Drawdy (CloneMerge)
+Copyright © ∞ Jason Drawdy 
 
 All rights reserved.
 
